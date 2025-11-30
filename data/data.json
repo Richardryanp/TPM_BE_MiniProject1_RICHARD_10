@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Cappuccino",
+    "sugar": "less sugar"
+  },
+  {
+    "id": 2,
+    "name": "Latte",
+    "sugar": "normal"
+  }
+]
