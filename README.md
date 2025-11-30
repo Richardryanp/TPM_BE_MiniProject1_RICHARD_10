@@ -1,5 +1,5 @@
-#Coffee Catalog
-##A simple Express.js API that provides a catalog of coffee types and allows adding new items. Data is stored in a JSON file without a database.
+# Coffee Catalog
+## A simple Express.js API that provides a catalog of coffee types and allows adding new items. Data is stored in a JSON file without a database.
 
 ## Setup
 
